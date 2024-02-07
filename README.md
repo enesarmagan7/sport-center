@@ -14,7 +14,7 @@ This project is a front-end prototype for a sports center's website. It provides
 ## Installation
 
 1. Clone the project:
-git clone https://github.com/user/sport-center.git
+git clone https://github.com/enesarmagan7/sport-center.git
 2. Navigate to the root directory:
 
 cd sport-center-project

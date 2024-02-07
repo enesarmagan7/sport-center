@@ -1,4 +1,4 @@
-# Sport Center Project - Front-End Prototype
+# Sport Center Project 
 
 This project is a front-end prototype for a sports center's website. It provides a visual representation of the user interface without any backend functionality. The purpose of this project is to showcase the design and layout of the sports center's website.
 
